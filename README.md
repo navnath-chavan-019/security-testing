@@ -46,3 +46,9 @@ Use frameworks like React or Angular, which auto-escape data.
 
 **Final Report**
 The web application was vulnerable to SQL attack
+
+![Image](https://github.com/user-attachments/assets/a963d91a-058c-4958-aa9a-ac4e210cf2b0)
+
+![Image](https://github.com/user-attachments/assets/8877a9a2-2db6-4748-8bd1-2afe55cba5a3)
+
+![Image](https://github.com/user-attachments/assets/315e41de-da2d-4231-9b18-a5772451b165)
